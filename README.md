@@ -1,7 +1,5 @@
 # erlang-euler
 
-![alt tag](https://projecteuler.net/profile/joanlopez.png)
-
 Learning Erlang with the problems from https://projecteuler.net
 
 - [X] 1. Multiples of 3 and 5
