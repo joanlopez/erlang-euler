@@ -10,3 +10,4 @@ Learning Erlang with the problems from https://projecteuler.net
 - [X] 6. Sum square difference
 - [X] 7. 10001st prime
 - [X] 13. Large sum
+- [X] 15. Lattice paths
