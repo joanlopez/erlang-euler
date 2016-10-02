@@ -11,4 +11,4 @@ Learning Erlang with the problems from https://projecteuler.net
 - [X] 14. Longest Collatz sequence (slow)
 - [X] 15. Lattice paths
 - [X] 17. Number letter counts
-- [X] 96. Su Doku
+- [ ] 96. Su Doku
