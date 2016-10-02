@@ -25,6 +25,13 @@ split_list_by(ChunkSize, List, Chunks) ->
   {Chunk, Remain} = lists:split(ChunkSize, List),
   split_list_by(ChunkSize, Remain, Chunks ++ [Chunk]).
 
+%% Specific method for this problem: %%
+%% Getting the first three digits of the first row %%
+number_of(Sudoku) ->
+  FirstRow = lists:nth(1, Sudoku),
+  {Digits, _ } = lists:split(3, FirstRow),
+  list_to_integer(Digits).
+
 is_numeric(Chain) ->
   case re:run(Chain, "^[0-9]*$") of
     {match, _} -> true ;
