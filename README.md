@@ -10,3 +10,4 @@ Learning Erlang with the problems from https://projecteuler.net
 - [X] 13. Large sum
 - [X] 14. Longest Collatz sequence (slow)
 - [X] 15. Lattice paths
+- [X] 17. Number letter counts
